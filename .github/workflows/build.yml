@@ -29,5 +29,4 @@ jobs:
       
       - name: build
         run: dotnet build wpfaction/wpfaction.csproj --Configuration= Release
-          echo Add other actions to build,
-          echo test, and deploy your project.
+
